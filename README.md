@@ -8,4 +8,4 @@ The implemented algorithms:
 * Hybrid Sort
 ## 📊 Results
 ![1](results/randomData.PNG)
-![2](sortedData.PNG)
+![2](results/sortedData.PNG)
