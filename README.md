@@ -6,3 +6,4 @@ The implemented algorithms:
 * Merge Sort
 * Quick Sort
 * Hybrid Sort
+## 📊 Results
