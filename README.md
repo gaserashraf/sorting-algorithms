@@ -1,5 +1,6 @@
 # sorting-algorithms
 evaluate the performance of these algorithms and test their performance on large datasets.
+<br>
 The implemented algorithms:
 * Selection Sort
 * Insertion Sort
