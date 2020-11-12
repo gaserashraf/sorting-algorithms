@@ -68,6 +68,8 @@ void HybridSort(vector<int>& vec)
     }
     if (NumSorted >= vec.size() * .75) //Almost sorted
         insertionSort(vec);
+    else if(NumSorted >= vec.size() * .5)
+	mergeSort(0, vec.size() - 1, vec);
     else
         quickSort(0, vec.size() - 1, vec);
 
