@@ -7,3 +7,5 @@ The implemented algorithms:
 * Quick Sort
 * Hybrid Sort
 ## 📊 Results
+![1](results/randomData.PNG)
+![2](sortedData.PNG)
